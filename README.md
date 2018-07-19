@@ -5,20 +5,10 @@ Implementation of the paper: [StyleBank: An Explicit Representation for Neural I
 
 # Examples
 
-![Style00](style/00.jpg)
-![Mountain](examples/mountain.jpg)
-![Mountain](examples/00.jpg)
-
-![Style01](style/01.jpg)
-![Japan](examples/japan.jpg)
-![Japan](examples/01_japan.jpg)
-
-![Style02](style/02.jpg)
-![Bridge](examples/bridge.jpg)
-![Bridge](examples/02_bridge.jpg)
-![Japan101](examples/japan101.jpg)
-![Japan101](examples/02_japan101.jpg)
-
-![Style09](style/09.jpg)
-![Deer](examples/deer.jpg)
-![Deer](examples/09_deer.jpg)
+Style | Source | Transfered
+:--:|:--:|:--:
+<img src="style/00.jpg" width="256"> | <img src="examples/mountain.jpg" width="512"> | <img src="examples/00.jpg" width="512">
+<img src="style/01.jpg" width="256"> | <img src="examples/japan.jpg" width="512"> | <img src="examples/01_japan.jpg" width="512">
+<img src="style/02.jpg" width="256"> | <img src="examples/bridge.jpg" width="512"> | <img src="examples/02_bridge.jpg" width="512">
+<img src="style/02.jpg" width="256"> | <img src="examples/japan101.jpg" width="512"> | <img src="examples/02_japan101.jpg" width="512">
+<img src="style/09.jpg" width="256"> | <img src="examples/deer.jpg" width="512"> | <img src="examples/09_deer.jpg" width="512">
