@@ -2,6 +2,9 @@
 
 Implementation of the paper: [StyleBank: An Explicit Representation for Neural Image Style Transfer](https://arxiv.org/abs/1703.09210)
 
+# Implemented
+* Training
+* Incremental Learning
 
 # Examples
 
