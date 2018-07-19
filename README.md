@@ -10,7 +10,8 @@ Implementation of the paper: [StyleBank: An Explicit Representation for Neural I
 1. Prepare your content image dataset (I use MS-COCO)
 2. Prepare your style image dataset
 
-It takes about 1 days to train on a GeForce GTX 1080 Ti
+It takes about 1 days to train on a GeForce GTX 1080 Ti. Pre-trained weights are provided. Just load the encoder, decoder and the stylebank you want.
+
 # Examples
 
 Style | Source | Transfered
